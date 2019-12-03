@@ -1,5 +1,5 @@
 
-# InstallFEST[aXR6] - Instalando o Social Mapper via Script automatizado!!
+# Instalando o Social Mapper via Script automatizado!!
 
 # Basta apenas clonar o repositório, dar permissão e executar o script.
 ```
@@ -9,4 +9,4 @@
 3 - ./Social_Mapper_Script_Install.sh
 ```
 
-[![# Instalando o Social Mapper via Script automatizado!!](https://i.imgur.com/5YOL149.png)](https://www.youtube.com/watch?v=OhJ5bEUxj-w)
+[![# Instalando o Social Mapper via Script automatizado!!](https://i.imgur.com/5YOL149.png)]
